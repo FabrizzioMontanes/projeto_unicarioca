@@ -210,7 +210,7 @@
 }
 
 .opacity-strong {
-  opacity: 0.7;
+  opacity: 0.6;
 }
 .btn-custom {
   background-color: #3c9;
@@ -231,6 +231,15 @@
   color: #3c9;
 }
 
+.banner {
+  background-color: rgb(214, 236, 248);
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.container-custom {
+  margin-top: 4rem;
+}
 .carousel-control-next,
 .carousel-control-prev /*, .carousel-indicators */ {
     filter: invert(100%);
@@ -244,6 +253,7 @@
 .carousel-indicators {
   filter: invert(100%);
 }
+
 
 
 html, body{ width: 100%; height: 100%; margin: 0; padding: 0;}
